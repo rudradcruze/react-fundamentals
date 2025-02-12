@@ -1,0 +1,35 @@
+.heading {
+	font-size: 3.2rem;
+	line-height: 1.1;
+}
+
+.heading span {
+	color: greenyellow;
+	text-decoration: underline;
+}
+
+.nameHeading {
+	font-size: 2rem;
+	font-weight: 300;
+}
+
+main > ol {
+	line-height: 2rem;
+}
+
+.hireMeBtn {
+	color: black;
+	background-color: greenyellow;
+	padding: 6px 16px;
+	border-radius: 6px;
+	-webkit-border-radius: 6px;
+	-moz-border-radius: 6px;
+	-ms-border-radius: 6px;
+	-o-border-radius: 6px;
+	text-decoration: none;
+	margin-top: 2rem;
+	display: flex;
+	width: fit-content;
+	gap: 8px;
+	font-weight: semi-bold;
+}
